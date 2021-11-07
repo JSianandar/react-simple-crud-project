@@ -1,0 +1,14 @@
+{
+  "layanan": [
+    {
+      "id": 1,
+      "lingkupLayanan": "Layanan 1",
+      "layananTersedia": "Layanan Tersedia 1"
+    },
+    {
+      "id": 2,
+      "lingkupLayanan": "Layanan 12",
+      "layananTersedia": "Layanan Tersedia 2"
+    }
+  ]
+}
